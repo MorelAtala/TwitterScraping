@@ -28,7 +28,7 @@ To run this project, you need to have the following installed:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/twitter-scraping-project.git
+git clone https://github.com/morelatala/twitter-scraping-project.git
 cd twitter-scraping-project
 ```
 
