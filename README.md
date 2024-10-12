@@ -182,4 +182,4 @@ Feel free to contribute to this project by creating a pull request or reporting 
 
 ---
 
-If you have any questions or encounter issues, feel free to contact me at `your-email@example.com`.
+If you have any questions or encounter issues, feel free to contact me at `tchoubou@th-brandenburg.de`.
