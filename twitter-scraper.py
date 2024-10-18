@@ -4,7 +4,7 @@ import time
 from textblob import TextBlob
 
 
-# Define a list of Nitter instances to rotate through
+# Define a list of Nitter instances to rotate through - fremder code (Nitter github : https://github.com/zedeus/nitter )
 NITTER_INSTANCES = [
     "https://nitter.poast.org",
     "https://xcancel.com",
@@ -110,7 +110,7 @@ def tweet_passes_filter(tweet):
 
     return True
 
-# Function to get a working Nitter instance
+# Function to get a working Nitter instance - eine Mischung von fremdem und eigenem Code inspiriert bei Lorenzo Bocchi : https://github.com/bocchilorenzo/ntscraper/tree/main
 def get_working_instance():
     for instance in NITTER_INSTANCES:
         try:
